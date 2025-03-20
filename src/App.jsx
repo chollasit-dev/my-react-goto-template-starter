@@ -1,7 +1,7 @@
 export default function App() {
   return (
-    <>
-      <h1>Hello, world!</h1>
-    </>
+    <main className='h-dvh content-center border bg-zinc-700'>
+      <h1 className='text-center text-3xl text-white'>Hello, world!</h1>
+    </main>
   );
 }
